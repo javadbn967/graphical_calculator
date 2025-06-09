@@ -1,2 +1,2 @@
 # graphical_calculator
-A simple GUI calculator built with Python and Tkinter
+A simple GUI calculator built with Python and customtkinter
